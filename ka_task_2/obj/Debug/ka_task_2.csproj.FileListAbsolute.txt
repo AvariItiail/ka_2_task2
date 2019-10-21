@@ -1,0 +1,7 @@
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\bin\Debug\ka_task_2.exe.config
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\bin\Debug\ka_task_2.exe
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\bin\Debug\ka_task_2.pdb
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\obj\Debug\ka_task_2.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\obj\Debug\ka_task_2.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\obj\Debug\ka_task_2.exe
+C:\Users\Антон\Desktop\4 семестр\ка\ka_task_2\ka_task_2\obj\Debug\ka_task_2.pdb
