@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -14,6 +14,7 @@ namespace ka_task_2
 
         static void Main()
         {
+            //a ti lubish kotikov?
             File.Delete(outputFileName);
             var input = File.ReadAllLines(inputFileName);
             var graph = new List<int>[int.Parse(input[0])];
@@ -68,6 +69,7 @@ namespace ka_task_2
             }
             return !parts.Contains(null);
         }
+        //ya ochen' lublu kotikov
     }
     
 }
